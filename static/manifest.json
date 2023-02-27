@@ -1,0 +1,24 @@
+{
+  "name": "ECM Documentation",
+  "short_name": "ECM Documentation",
+  "description": "Official documentation website for Elite's Conflict Mod - a mod for Star Wars: Empire At War: Forces of Corruption.",
+  "lang": "en-US",
+  "background_color": "#fff",
+  "display": "standalone",
+  "orientation":"portrait",
+  "theme_color": "#fff",
+  "icons": [
+    {
+      "src": "/img/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "scope": "./"
+}

@@ -1,0 +1,22 @@
+# ECM Maintainers
+
+# Elite
+elite:
+  name: elite
+  title: Maintainer/Developer of Elite's Conflict Mod
+  url: https://github.com/elite
+  image_url: https://github.com/elite.png
+
+# CNKommander
+cnkommander:
+  name: cnkommander
+  title: Lead Developer of Elite's Conflict Mod
+  url: https://github.com/cnkommander
+  image_url: https://github.com/cnkommander.png
+
+# sanick2
+sanick2:
+  name: sanick2
+  title: Art Assets Contributor
+  url: https://github.com/sanick2
+  image_url: https://github.com/sanick2.png
