@@ -13,7 +13,11 @@ and eventually get the hang of the mod's gameplay and mechanics.
 This GC is an 8 planet map that has the Empire and Rebel factions present.  
 The AI is not active in this map.
 
+![img](https://placehold.co/200x200)
+
 ### Galactic Holomap GC
 
 This GC is a full 86 planet map that has the Empire and Rebel factions present.  
 The AI is not active in this map.
+
+![img](https://placehold.co/200x200)
