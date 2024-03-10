@@ -1,7 +1,5 @@
 ---
-sidebar_position: 3
-last_update:
-  date: 12/21/2022
+title: Roadmap
 ---
 
 # Roadmap
