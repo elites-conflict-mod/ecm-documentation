@@ -2,22 +2,20 @@
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
+Clone the repository:
 ```
-npm create astro@latest -- --template starlight
+git clone https://github.com/elites-conflict-mod/ecm-documentation.git
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwithastro%2Fstarlight%2Ftree%2Fmain%2Fexamples%2Fbasics&project-name=my-starlight-docs&repository-name=my-starlight-docs)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b92f6819-a736-430e-b8bc-5d63861dac9b/deploy-status)](https://app.netlify.com/sites/ecm-documentation/deploys)
 
 ## 🚀 Project Structure
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+Inside of the documentation site, you'll see the following folders and files:
 
 ```
 .
+├── .vscode/
 ├── public/
 ├── src/
 │   ├── assets/
@@ -49,6 +47,6 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## 👀 Want to learn more about Elite's Conflict Mod?
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+Check us out on [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1125611680), read [the ECM documentation](https://ecm-documentation.netlify.app), or join the [Discord server](https://discord.gg/NVmBEfn).

@@ -1,5 +1,6 @@
 {
-  "name": "verdant-velocity",
+  "name": "ecm-documentation",
+  "private": true,
   "type": "module",
   "version": "0.0.1",
   "scripts": {

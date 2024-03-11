@@ -14,7 +14,7 @@ export default defineConfig({
 			favicon: './favicon.ico',
 			social: {
 				github: 'https://github.com/elites-conflict-mod/elites-conflict-mod',
-				discord: 'https://astro.build/chat',
+				discord: 'https://discord.gg/NVmBEfn',
 			},
 			sidebar: [
 				{
@@ -22,25 +22,25 @@ export default defineConfig({
 					link: '/',
 				},
 				{
-					label: 'Guides', badge: { text: 'work in progress', variant: 'note' }, // 'work in progress'
+					label: 'Guides',
+					badge: { text: 'work in progress', variant: 'note' }, // 'work in progress'
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ 
-							label: 'Galactic Conquests', 
-							link: '/guides/conquests/' 
+						{
+							label: 'Galactic Conquests',
+							link: '/guides/conquests/',
 						},
-						{ 
-							label: 'Faction Guides: CSA', 
+						{
+							label: 'Faction Guides: CSA',
 							link: '/guides/csa/',
-							
 						},
-						{ 
-							label: 'Faction Guides: Empire', 
-							link: '/guides/empire/' 
+						{
+							label: 'Faction Guides: Empire',
+							link: '/guides/empire/',
 						},
-						{ 
-							label: 'Faction Guides: Rebels', 
-							link: '/guides/rebels/' 
+						{
+							label: 'Faction Guides: Rebels',
+							link: '/guides/rebels/',
 						},
 					],
 				},
