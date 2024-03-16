@@ -1,8 +1,6 @@
 ---
 title: Corporate Sector Authority
-description: A guide in my new Starlight docs site.
+description: A guide to playing as the Corporate Sector Authority in Elite's Conflict Mod.
 ---
-
-# Faction Guide: Corporate Sector Authority
 
 **TODO**

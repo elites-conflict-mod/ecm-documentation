@@ -1,8 +1,6 @@
 ---
 title: Galactic Empire
-description: A guide in my new Starlight docs site.
+description: A guide to playing as the Galactic Empire in Elite's Conflict Mod.
 ---
-
-# Faction Guide: Galactic Empire
 
 **TODO**

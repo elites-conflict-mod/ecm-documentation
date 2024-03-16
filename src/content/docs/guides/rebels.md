@@ -1,8 +1,6 @@
 ---
 title: Rebel Alliance
-description: A guide in my new Starlight docs site.
+description: A guide to playing as the Rebel Alliance in Elite's Conflict Mod.
 ---
-
-# Faction Guide: Rebel Alliance
 
 **TODO**

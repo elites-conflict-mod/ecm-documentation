@@ -2,8 +2,6 @@
 title: Roadmap
 ---
 
-# Roadmap
-
 This is the Official Development Roadmap for Elite's Conflict Mod for future reference and transparency for our fans. 
 
 :::caution

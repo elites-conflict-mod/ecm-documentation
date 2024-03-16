@@ -51,6 +51,7 @@ export default defineConfig({
 				{
 					label: 'ModDB',
 					link: 'https://moddb.com/mods/elites-conflict-mod',
+					icon: 'external',
 					attrs: { target: '_blank', rel: 'noopener', title: 'ModDB' },
 				},
 			],
