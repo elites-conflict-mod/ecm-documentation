@@ -1,8 +1,7 @@
 ---
-sidebar_position: 4
+title: Community
+lastUpdated: 2022-12-21
 ---
-
-# Community
 
 Interested in joining our mod or keeping tabs on mod development? 
 

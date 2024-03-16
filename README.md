@@ -1,41 +1,52 @@
-# Elite's Conflict Mod Documentation Website
+# ECM Documentation website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
-### Installation
-
+Clone the repository:
 ```
-$ npm
-```
-
-### Local Development
-
-```
-$ npm start
+git clone https://github.com/elites-conflict-mod/ecm-documentation.git
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b92f6819-a736-430e-b8bc-5d63861dac9b/deploy-status)](https://app.netlify.com/sites/ecm-documentation/deploys)
 
-### Build
+## 🚀 Project Structure
 
-```
-$ npm run build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
+Inside of the documentation site, you'll see the following folders and files:
 
 ```
-$ USE_SSH=true npm deploy
+.
+├── .vscode/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── content/
+│   │   ├── docs/
+│   │   └── config.ts
+│   └── env.d.ts
+├── astro.config.mjs
+├── package.json
+└── tsconfig.json
 ```
 
-Not using SSH:
+Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
 
-```
-$ GIT_USER=<Your GitHub username> npm run deploy
-```
+Images can be added to `src/assets/` and embedded in Markdown with a relative link.
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Static assets, like favicons, can be placed in the `public/` directory.
+
+## 🧞 Commands
+
+All commands are run from the root of the project, from a terminal:
+
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `npm install`             | Installs dependencies                            |
+| `npm run dev`             | Starts local dev server at `localhost:4321`      |
+| `npm run build`           | Build your production site to `./dist/`          |
+| `npm run preview`         | Preview your build locally, before deploying     |
+| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help` | Get help using the Astro CLI                     |
+
+## 👀 Want to learn more about Elite's Conflict Mod?
+
+Check us out on [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1125611680), read [the ECM documentation](https://ecm-documentation.netlify.app), or join the [Discord server](https://discord.gg/NVmBEfn).

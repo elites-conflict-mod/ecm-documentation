@@ -1,4 +1,8 @@
-# Galactic Conquest Maps
+---
+title: Galactic Conquest Maps
+description: A guide to Galactic Conquests in Elite's Conflict Mod
+---
+
 
 There are a total of 6 playable Galactic Conquest maps, broken down into  
 Tutorial, Campaign, and Custom scenarios.
