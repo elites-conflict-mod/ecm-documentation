@@ -1,10 +1,33 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import starlightBlog from 'starlight-blog';
 
 // https://astro.build/config
 export default defineConfig({
 	integrations: [
 		starlight({
+			plugins: [starlightBlog({
+				authors: {
+					elite: {
+						name: 'elite',
+						title: 'Maintainer/Developer of Elite\'s Conflict Mod',
+						url: 'https://github.com/elite',
+						picture: 'https://github.com/elite.png',
+					},
+					cnkommander: {
+						name: 'cnkommander',
+						title: 'Lead Developer of Elite\'s Conflict Mod',
+						url: 'https://github.com/cnkommander',
+						picture: 'https://github.com/cnkommander.png',
+					},
+					sanick2: {
+						name: 'sanick2',
+						title: 'Art Assets Contributor',
+						url: 'https://github.com/sanick2',
+						picture: 'https://github.com/sanick2.png',
+					},
+				},
+			})],
 			title: 'ECM Documentation',
 			logo: {
 				src: './src/assets/ecm-logo.png',
