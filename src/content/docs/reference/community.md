@@ -1,6 +1,6 @@
 ---
 title: Community
-lastUpdated: 2024-7-27
+lastUpdated: 2024-07-27
 ---
 
 Interested in joining our mod or keeping tabs on mod development? 
