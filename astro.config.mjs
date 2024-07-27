@@ -8,11 +8,11 @@ export default defineConfig({
 		starlight({
 			plugins: [starlightBlog({
 				authors: {
-					elite: {
-						name: 'elite',
+					bhemmie: {
+						name: 'bhemmie',
 						title: 'Maintainer/Developer of Elite\'s Conflict Mod',
-						url: 'https://github.com/elite',
-						picture: 'https://github.com/elite.png',
+						url: 'https://github.com/bhemmie',
+						picture: 'https://github.com/bhemmie.png',
 					},
 					cnkommander: {
 						name: 'cnkommander',
