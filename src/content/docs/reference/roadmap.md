@@ -1,5 +1,6 @@
 ---
 title: Roadmap
+lastUpdated: 2024-7-27
 ---
 
 This is the Official Development Roadmap for Elite's Conflict Mod for future reference and transparency for our fans. 
@@ -23,16 +24,14 @@ Please note, details posted here are not considered final unless explicitly stat
 
 | Branch | Version | Description | Status
 | ------ | ----------- | ------ | ------ |
-| Stable Build | 1.3.1 | null | ✅ Stable
-| Dev | 1.3.2 | TODO: QoL improvements, Balance Updates | 🚧 In-Progress
+| Stable Build | 1.3.2 |  | ✅ Stable
 
 ### The Road Ahead...
 
 | Version | Description | Status |
 | ------- | ----------- | ------ |
-| 1.4 | Galactic Conquest and Ground Reworks | 🛠 In Pre-Development planning/design phase
-| 1.5 | Independent/Pirate Faction Rework; 'Faction Update' | ❌ Not Started
-| 2.0 | Project 'Allegiance' (working title) 👀 | ❌ Not Started 
+| 1.4 | "Frigates, Capitals, and More" | 🛠 In Pre-Development planning/design phase
+| 2.0 | "Corporate Allegiance" | ❌ Not Started/TBD
 
 ## Submod(s)
 
