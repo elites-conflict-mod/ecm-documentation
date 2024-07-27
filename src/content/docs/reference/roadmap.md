@@ -1,6 +1,6 @@
 ---
 title: Roadmap
-lastUpdated: 2024-7-27
+lastUpdated: 2024-07-27
 ---
 
 This is the Official Development Roadmap for Elite's Conflict Mod for future reference and transparency for our fans. 
