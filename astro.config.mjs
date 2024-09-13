@@ -4,6 +4,7 @@ import starlightBlog from 'starlight-blog';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://ecm-documentation.netlify.app',
 	integrations: [
 		starlight({
 			plugins: [starlightBlog({
