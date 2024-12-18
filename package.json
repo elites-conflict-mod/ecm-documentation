@@ -1,6 +1,5 @@
 {
-  "name": "ecm-documentation",
-  "private": true,
+  "name": "starlight",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -11,10 +10,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.27.1",
-    "astro": "^4.15.4",
-    "astro-embed": "^0.7.2",
+    "@astrojs/starlight": "^0.30.2",
+    "astro": "^5.0.9",
+    "astro-embed": "^0.9.0",
     "sharp": "^0.33.5",
-    "starlight-blog": "^0.12.0"
+    "starlight-blog": "^0.16.0"
   }
 }
