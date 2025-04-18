@@ -36,10 +36,10 @@ export default defineConfig({
 				replacesTitle: true,
 			},
 			favicon: './favicon.ico',
-			social: {
-				github: 'https://github.com/elites-conflict-mod/elites-conflict-mod',
-				discord: 'https://discord.gg/NVmBEfn',
-			},
+			social: [
+				{ icon: 'github', label: 'Github', href:'https://github.com/elites-conflict-mod/elites-conflict-mod' },
+				{ icon: 'discord', label: 'Discord', href: 'https://discord.gg/NVmBEfn' },
+			],
 			sidebar: [
 				{
 					label: 'Intro',
