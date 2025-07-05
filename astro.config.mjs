@@ -30,6 +30,9 @@ export default defineConfig({
 				},
 			})],
 			title: 'ECM Documentation',
+			customCss: [
+				'./src/styles/custom.css'
+			],
 			logo: {
 				src: './src/assets/ecm-logo.png',
 				alt: 'ECM Logo',
